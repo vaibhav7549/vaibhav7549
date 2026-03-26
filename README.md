@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on building my expertise in Artificial Intelligence and Data Science, leveraging my foundation as an Information Technology undergraduate.👯 I’m looking to collaborate on projects involving Machine Learning models , data analysis, and AI integrations using Python and C++.🤝 I’m looking for help with mastering advanced ML algorithms, exploring deep learning, and optimizing databases like MongoDB and MySQL.🌱 I’m currently learning advanced Data Science concepts and how to train and deploy intelligent AI-driven applications.💬 Ask me about my experience integrating Machine Learning into projects (like Clima Verse-AI) , Data Structures & Algorithms (DSA), or my journey as a 2-star coder on CodeChef.⚡ Fun fact When I'm not training data models or solving LeetCode problems , I'm managing public relations and tech events for the WCE Microsoft Learn Students' Club! 
+# About Me:
+I’m currently working on building my expertise in Artificial Intelligence and Machine Learning.
 
 
 ## 🌐 Socials:
