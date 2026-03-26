@@ -14,11 +14,7 @@ I’m currently working on building my expertise in Artificial Intelligence and 
   </a>
 </div>
 
-<div align="center">
-  <a href="https://www.codechef.com/users/vaibhav7549">
-    <img src="https://codechef-readme-stats.onrender.com/vaibhav7549?v=1" alt="Vaibhav's CodeChef Stats" />
-  </a>
-</div>
+![CodeChef](https://img.shields.io/badge/CodeChef-2%20Star-success?style=for-the-badge&logo=codechef)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
