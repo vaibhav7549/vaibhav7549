@@ -10,11 +10,13 @@ I’m currently working on building my expertise in Artificial Intelligence and 
 ## 📊 Coding Profiles:
 <div align="center">
   <a href="https://leetcode.com/vaibhav7549">
-    <img src="https://leetcard.jacoblin.cool/vaibhav7549?theme=dark&font=baloo" alt="Vaibhav's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/vaibhav7549?theme=dark&font=baloo" height="175" alt="Vaibhav's LeetCode Stats" />
   </a>
-  <br><br>
   <a href="https://www.codechef.com/users/vaibhav7549">
-    <img src="https://codechef-readme-stats.onrender.com/vaibhav7549?v=1" alt="Vaibhav's CodeChef Stats" />
+    <img src="https://codechef-readme-stats.onrender.com/vaibhav7549?v=1" height="175" alt="Vaibhav's CodeChef Stats" />
+  </a>
+  <a href="https://codeforces.com/profile/vaibhav7549">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhav7549&theme=dark" height="175" alt="Vaibhav's Codeforces Stats" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/CodeChef-2%20Star-success?style=for-the-badge&logo=codechef" alt="2 Star Badge">
