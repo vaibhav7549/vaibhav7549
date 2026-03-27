@@ -9,15 +9,25 @@
 
 ## 📊 Coding Profiles:
 <div align="center">
-  <a href="https://leetcode.com/vaibhav7549">
-    <img src="https://leetcard.jacoblin.cool/vaibhav7549?theme=dark&font=baloo" height="175" alt="Vaibhav's LeetCode Stats" />
-  </a>
-  <a href="https://www.codechef.com/users/vaibhav7549">
-    <img src="https://codechef-readme-stats.vercel.app/api?username=vaibhav7549&theme=dark" height="175" alt="Vaibhav's CodeChef Stats" />
-  </a>
-  <a href="https://codeforces.com/profile/vaibhav7549">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhav7549&theme=dark" height="175" alt="Vaibhav's Codeforces Stats" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://leetcode.com/vaibhav7549">
+          <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.codechef.com/users/vaibhav7549">
+          <img src="https://img.shields.io/badge/CodeChef-2_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/vaibhav7549">
+          <img src="https://img.shields.io/badge/Codeforces-Active_Solver-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### ✍️ Random Dev Quote
