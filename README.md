@@ -12,12 +12,11 @@
   <a href="https://leetcode.com/vaibhav7549">
     <img src="https://leetcard.jacoblin.cool/vaibhav7549?theme=dark&font=baloo" height="175" alt="Vaibhav's LeetCode Stats" />
   </a>
+  <a href="https://www.codechef.com/users/vaibhav7549">
+    <img src="https://codechef-readme-stats.vercel.app/api?username=vaibhav7549&theme=dark" height="175" alt="Vaibhav's CodeChef Stats" />
+  </a>
   <a href="https://codeforces.com/profile/vaibhav7549">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=vaibhav7549&theme=dark" height="175" alt="Vaibhav's Codeforces Stats" />
-  </a>
-  <br><br>
-  <a href="https://www.codechef.com/users/vaibhav7549">
-    <img src="https://img.shields.io/badge/CodeChef-2%20Star-success?style=for-the-badge&logo=codechef" alt="2 Star Badge">
   </a>
 </div>
 
