@@ -21,6 +21,9 @@
   </a>
 </div>
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=vaibhav7549)
+
 ### ✍️ Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
