@@ -21,9 +21,6 @@
   </a>
 </div>
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=vaibhav7549)
-
 ### ✍️ Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
