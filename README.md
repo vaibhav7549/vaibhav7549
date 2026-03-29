@@ -21,9 +21,6 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=vaibhav7549)
-
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=vaibhav7549)
 
